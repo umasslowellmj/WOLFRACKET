@@ -42,6 +42,7 @@ Will be responsible for the production of results, so will be focusing on (Items
 
 ### Results & Documentation
 Documentation can be found in wolfracket/documentation.md
+
 Proof of concepts can be found in wolfracket/test-results.md
 
 <!-- Links -->
