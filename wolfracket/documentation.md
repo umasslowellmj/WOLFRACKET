@@ -8,7 +8,7 @@ This file runs the application.
 The server creates an instance with a couple pages.
 
 | page name | purpose|
----------------------
+|-----------|----------|
 | home | The application home page, this page will describe the project as well as have input fields to display it in action.|
 | api | The API documentation page explaining the methods available how to call them and their expected responses.|
 
@@ -31,13 +31,13 @@ To use the server-handler
 The api extends the server pages by adding methods to the api landing page.
 
 | page name | purpose|
----------------------
+|-----------|----------|
 |api/*| The api method landing point, * represents the available pages. these pages take a json sting input and return json strings. In case of error they return http response codes. |
 
 Currently the api has the methods ...
 
 | page name | purpose|
----------------------
+|-----------|----------|
 | api/add | To support addition during the integration phase |
 
 To use the api
