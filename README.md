@@ -13,14 +13,14 @@ To set up a racket Webserver with API landing points that interpret JSON input, 
 |1.1| Web Server Documentation | done |
 |1.2| Generate proof of success| done |
 | 2 | Allow for multiple landing pages associated to the API methods | done |
-|2.1| Web API Documentation | started |
-|2.2| Generate proof of success| not started |
-| 3 | Create a JSON processor object | done |
-|3.1| JSON object Documentation | done |
-|3.2| Generate proof of success| done |
+|2.1| Web API Documentation | done |
+|2.2| Generate proof of success| done |
+| 3 | Create a JSON processor object | started |
+|3.1| JSON object Documentation | not started |
+|3.2| Generate proof of success| not started |
 | 4 | Create a Server API Handler object | done |
-|4.1| Server API handler Documentation | not started |
-|4.2| Generate proof of success| not started |
+|4.1| Server API handler Documentation | done |
+|4.2| Generate proof of success| done |
 | 5 | Create a Mathematics object | not started |
 |5.1| Mathematics object Documentation | not started |
 |5.2| Generate proof of success| not started |
