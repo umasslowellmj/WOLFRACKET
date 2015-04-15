@@ -20,7 +20,7 @@ To set up a racket Webserver with API landing points that interpret JSON input, 
 |3.2| Generate proof of success| not started |
 | 4 | Create a Server API Handler object | done |
 |4.1| Server API handler Documentation | done |
-|4.2| Generate proof of success| done |
+|4.2| Generate proof of success| not-started |
 | 5 | Create a Mathematics object | not started |
 |5.1| Mathematics object Documentation | not started |
 |5.2| Generate proof of success| not started |
@@ -31,7 +31,7 @@ To set up a racket Webserver with API landing points that interpret JSON input, 
 |7.1| Generate proof of success| not started |
 
 ### First Milestone Goals (04-13)
-During the First Milestone we will have turned in Client related items (Items 1 - 2.2) as well as the Mathematics portion (Items 5 - 5.2)  
+During the First Milestone we will have turned in Client related items (Items 1 - 2.2) as well as the Mathematics portion (Items 5 - 5.2)
 
 ## Group Responsibilities
 ### Jose Flores
@@ -39,6 +39,10 @@ Will be responsible for the transmission and interpretation of data, so will be 
 
 ### Munkhjargal Narmandakh
 Will be responsible for the production of results, so will be focusing on (Items 5 - 6.2)
+
+### Results & Documentation
+Documentation can be found in wolfracket/documentation.md
+Proof of concepts can be found in wolfracket/test-results.md
 
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
