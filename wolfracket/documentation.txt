@@ -1,0 +1,11 @@
+math.rkt
+
+File has all the implementation of calculations. uses libraries--> 
+
+#lang racket
+(require math/number-theory) 
+(require math) 
+(require math/base)
+
+for math functions and for graphs --> 
+(require plot)
