@@ -1,0 +1,6 @@
+After we did 2 milestones separatedly, I merged the two files in one so all the options to chose from mathematical procedures
+are in one racket file. math.rkt takes care of all the operations in one place. First definitions/implementations
+of the functions and set to send to the handler. This would make it similar to switch statement in c program. 
+All the procedures except graph plotting functions takes list as arguments. 
+
+We have 2d graphs for sin, cos functions and one 3d graph for sin vs cos. 
